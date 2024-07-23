@@ -1,0 +1,2 @@
+rootProject.name = 'pdfbox-diff-tool'
+include 'v2.0.20', 'v2.0.31', 'common'
